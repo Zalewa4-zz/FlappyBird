@@ -1,4 +1,3 @@
 # FlappyBird
-Simple game made for a project at University.
+Simple game made for a project at University using Applet.
 
-Sadly its made using Applet, so it needs JDK8.
